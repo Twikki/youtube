@@ -1,4 +1,3 @@
-
 # Creates Zabbix DIR
 mkdir c:\Github_folder
 
